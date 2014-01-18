@@ -15,7 +15,7 @@ import org.apache.catalina.comet.CometProcessor;
 
 
 /**
- * Servlest implementation class ChatServlet
+ * Servlest implementation class ChatServlet first realse
  */
 
 public class ChatServlet extends HttpServlet implements CometProcessor {
